@@ -1,4 +1,4 @@
-20586114073995523
+20587782951360828
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2386,6 +2386,13 @@ QFP50P900X900X160-48N
 0
 48
 48
+CM119B
+SO16
+<b>Small Outline package</b> 150 mil
+
+0
+16
+16
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
