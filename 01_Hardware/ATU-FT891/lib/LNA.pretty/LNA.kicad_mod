@@ -1,0 +1,66 @@
+(footprint "LNA" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr through_hole)
+  (fp_text reference "LNA?" (at -0.1 -4.7 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c680e6ab-c8c6-4d4a-8761-170f369767c0)
+  )
+  (fp_text value "LNA" (at -0.2 -1.2 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 71fe657b-1e5d-4a60-9637-8378fc2177e2)
+  )
+  (fp_text user "${REFERENCE}" (at -0.1 -2.9 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5cc168c9-7577-463f-9cc5-8c471bf38fd0)
+  )
+  (fp_rect (start 50 0) (end 0 25.5) (layer "F.SilkS") (width 0.12) (fill none) (tstamp de8505c9-1335-4feb-93ff-be5913bcffc7))
+  (pad "1" smd circle (at 42.3 6.34) (size 1.524 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f0c167ef-fb21-4130-886d-9824601fa39b))
+  (pad "2" smd circle (at 7.54 16.04 90) (size 2.25 2.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0e90a994-92d0-4167-a0a4-26bf7e4c464d))
+  (pad "2" smd circle (at 7.54 10.96) (size 2.25 2.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 303e483d-8296-41e6-90a8-ecb7d44f3492))
+  (pad "2" smd circle (at 42.46 17.54) (size 2.25 2.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 53f20c8c-ebce-45e9-9ca7-4b61ed07b6e0))
+  (pad "2" smd circle (at 46.75 21.8) (size 4 4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6790322e-58f9-4ee0-a1ab-544a1c7e1f9c))
+  (pad "2" smd circle (at 36.7 6.55) (size 4 4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 765cd874-fa6e-4a4c-b66f-30e4043d1222))
+  (pad "2" smd circle (at 42.3 3.8) (size 1.524 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 88b2637e-22fe-4a4a-b80d-57a01527b3ea))
+  (pad "2" smd circle (at 47.54 12.46) (size 2.25 2.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a5f756ff-a92f-46ca-8bb9-3f3cc69d7d45))
+  (pad "2" smd circle (at 47.54 17.54 90) (size 2.25 2.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a825dfbe-f5db-430e-95cd-c9d4b7cd19b7))
+  (pad "2" smd circle (at 2.46 16.04) (size 2.25 2.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c52afe59-ef0c-458b-86d1-dd3e007af95f))
+  (pad "2" smd circle (at 14.55 6.55) (size 4 4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c9de64f3-68e7-4cbc-a7c3-da2dd7cebd60))
+  (pad "2" smd circle (at 2.46 10.96) (size 2.25 2.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e400d8b7-4d71-45ed-812f-75704b875b8f))
+  (pad "2" smd circle (at 42.46 12.46) (size 2.25 2.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ea92ce99-6d8d-4cdd-899d-2a2c48e37600))
+  (pad "2" smd circle (at 3.75 21.8) (size 4 4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fa47865d-1beb-4aff-a03b-626d25cbca63))
+  (pad "3" smd circle (at 45 15) (size 2.25 2.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 075801f0-1915-4194-b676-514c69d05220))
+  (pad "4" smd circle (at 5 13.5) (size 2.25 2.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp da51a4b7-fbbd-4111-9431-6af50d5029a9))
+  (group "" (id 2bb00926-db97-4ef7-8fb7-bde36a32fa49)
+    (members
+      0e90a994-92d0-4167-a0a4-26bf7e4c464d
+      303e483d-8296-41e6-90a8-ecb7d44f3492
+      c52afe59-ef0c-458b-86d1-dd3e007af95f
+      da51a4b7-fbbd-4111-9431-6af50d5029a9
+      e400d8b7-4d71-45ed-812f-75704b875b8f
+    )
+  )
+  (group "" (id 34f45996-9be7-49e2-a414-4a4aaf764d09)
+    (members
+      075801f0-1915-4194-b676-514c69d05220
+      53f20c8c-ebce-45e9-9ca7-4b61ed07b6e0
+      a5f756ff-a92f-46ca-8bb9-3f3cc69d7d45
+      a825dfbe-f5db-430e-95cd-c9d4b7cd19b7
+      ea92ce99-6d8d-4cdd-899d-2a2c48e37600
+    )
+  )
+  (group "" (id 7d6efd9e-4bb6-4dfb-bc9d-2f09c4656c83)
+    (members
+      6790322e-58f9-4ee0-a1ab-544a1c7e1f9c
+      765cd874-fa6e-4a4c-b66f-30e4043d1222
+      c9de64f3-68e7-4cbc-a7c3-da2dd7cebd60
+      fa47865d-1beb-4aff-a03b-626d25cbca63
+    )
+  )
+  (group "" (id dcb5907a-5904-4982-b684-fb96a021fd39)
+    (members
+      88b2637e-22fe-4a4a-b80d-57a01527b3ea
+      f0c167ef-fb21-4130-886d-9824601fa39b
+    )
+  )
+)

@@ -1,3 +1,8 @@
 (fp_lib_table
   (lib (name "CM119B")(type "KiCad")(uri "${KIPRJMOD}/lib")(options "")(descr ""))
+  (lib (name "PICO")(type "KiCad")(uri "${KIPRJMOD}/lib/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "Inductors")(type "KiCad")(uri "${KIPRJMOD}/lib/Inductors.pretty")(options "")(descr ""))
+  (lib (name "Transformer")(type "KiCad")(uri "${KIPRJMOD}/lib/Transformer.pretty")(options "")(descr ""))
+  (lib (name "LNA")(type "KiCad")(uri "${KIPRJMOD}/lib/LNA.pretty")(options "")(descr ""))
+  (lib (name "Connectors")(type "KiCad")(uri "${KIPRJMOD}/lib/Connectors.pretty")(options "")(descr ""))
 )

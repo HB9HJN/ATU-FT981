@@ -5,4 +5,5 @@
   (lib (name "SL2.1")(type "KiCad")(uri "${KIPRJMOD}/lib/SL2.1A.kicad_sym")(options "")(descr ""))
   (lib (name "CM118B")(type "KiCad")(uri "${KIPRJMOD}/lib/CM118B.kicad_sym")(options "")(descr ""))
   (lib (name "Trafo")(type "KiCad")(uri "${KIPRJMOD}/lib/Trafo.kicad_sym")(options "")(descr ""))
+  (lib (name "LNA")(type "KiCad")(uri "${KIPRJMOD}/lib/LNA.kicad_sym")(options "")(descr ""))
 )
